@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width: 768px) {
-  .aaa {
+
+  .cover {
     text-align: center;
   }
+
 }
 .wrapper {
   display: block;
